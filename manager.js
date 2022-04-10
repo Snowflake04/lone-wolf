@@ -6,16 +6,14 @@ module.exports = function(client) {
 	return new Manager({
 		nodes: [
                        {
-                           host: 'usui-linku.kadantte.moe',
-                           port: 443,
-                           password: "Usui#0256"
+                           host : "us1.lavalink.creavite.co",
+port : 20080,
+password : "auto.creavite.co"
                       },
 			{
-				host: 'n3.nighthost.tech',
-
-				port: 26777,
-
-				password: 'password111'
+				host : "lavamusic.lavalinks.xyz",
+port : 80,
+password : "LAVA"
 			},
 
 			{
