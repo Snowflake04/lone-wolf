@@ -25,6 +25,11 @@ module.exports = function(client) {
 
 				password: 'DBH'
 			},
+{
+        "host" : "kerosine.darrennathanael.com",
+        "port" : 2124,
+        "pass" : "SleepingOnTrains"
+}
 			{
 				host: 'node3.noldpvp.cf',
 				port: 25570,
