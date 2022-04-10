@@ -6,9 +6,9 @@ module.exports = function(client) {
 	return new Manager({
 		nodes: [
                        {
-                           host: 'lava.link',
-                           port: 80,
-                           password: "nothing"
+                           host: 'usui-linku.kadantte.moe',
+                           port: 443,
+                           password: "Usui#0256"
                       },
 			{
 				host: 'n3.nighthost.tech',
